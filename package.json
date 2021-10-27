@@ -1,0 +1,46 @@
+{
+	"name": "@itcig/prettier-config",
+	"version": "1.1.5",
+	"license": "MIT",
+	"description": "Shareable Prettier config for all @itcig projects",
+	"author": {
+		"name": "ITCIG",
+		"email": "it@capinfogroup.com"
+	},
+	"homepage": "https://github.com/itcig/prettier-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itcig/itcig.git",
+		"directory": "packages/js-packages/prettier-config"
+	},
+	"main": "index.js",
+	"module": "index.js",
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {},
+	"dependencies": {
+		"prettier": "^2.0",
+		"prettier-markdown": "^0.1.8",
+		"prettier-plugin-pkgjson": "^0.2.3"
+	},
+	"peerDependencies": {
+		"prettier": "^2.0"
+	},
+	"bugs": {
+		"url": "https://github.com/itcig/itcig/issues"
+	},
+	"keywords": [
+		"config",
+		"env",
+		"formatting",
+		"prettier",
+		"prettier-config"
+	],
+	"extra": {
+		"autotagger": true,
+		"autorelease": true,
+		"npmjs-autopublish": true,
+		"mirror-repo": "itcig/prettier-config"
+	}
+}
