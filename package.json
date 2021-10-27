@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/prettier-config",
-	"version": "1.1.5",
+	"version": "1.1.6",
 	"license": "MIT",
 	"description": "Shareable Prettier config for all @itcig projects",
 	"author": {
@@ -10,8 +10,7 @@
 	"homepage": "https://github.com/itcig/prettier-config#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/itcig/itcig.git",
-		"directory": "packages/js-packages/prettier-config"
+		"url": "git+https://github.com/itcig/prettier-config.git"
 	},
 	"main": "index.js",
 	"module": "index.js",
