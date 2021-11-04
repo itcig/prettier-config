@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/prettier-config",
-	"version": "1.1.7",
+	"version": "1.1.8",
 	"license": "MIT",
 	"description": "Shareable Prettier config for all @itcig projects",
 	"author": {
@@ -22,9 +22,6 @@
 		"prettier": "^2.0",
 		"prettier-markdown": "^0.1.8",
 		"prettier-plugin-pkgjson": "^0.2.3"
-	},
-	"peerDependencies": {
-		"prettier": "^2.0"
 	},
 	"bugs": {
 		"url": "https://github.com/itcig/itcig/issues"

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.1.8](https://github.com/itcig/itcig/compare/@itcig/prettier-config@1.1.7...@itcig/prettier-config@1.1.8) (2021-11-04)
+
+**Note:** Version bump only for package @itcig/prettier-config
+
+
+
+
+
 ### [1.1.7](https://github.com/itcig/itcig/compare/@itcig/prettier-config@1.1.6...@itcig/prettier-config@1.1.7) (2021-10-28)
 
 
