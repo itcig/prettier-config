@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/itcig/itcig/compare/@itcig/prettier-config@1.1.8...@itcig/prettier-config@1.2.0) (2022-02-14)
+
+
+### Features
+
+* **prettier-config:** allow double quotes in YAML ([308c5b3](https://github.com/itcig/itcig/commit/308c5b3d3967c7662ff026e27daf9a60dc163d07))
+
+
+
 ### [1.1.8](https://github.com/itcig/itcig/compare/@itcig/prettier-config@1.1.7...@itcig/prettier-config@1.1.8) (2021-11-04)
 
 **Note:** Version bump only for package @itcig/prettier-config
