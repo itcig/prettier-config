@@ -86,5 +86,12 @@ module.exports = {
         singleQuote: false,
       },
     },
+    {
+      files: ['**/*.yaml'],
+      options: {
+        parser: 'yaml',
+        singleQuote: false,
+      },
+    },
   ],
 };
