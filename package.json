@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/prettier-config",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"license": "MIT",
 	"description": "Shareable Prettier config for all @itcig projects",
 	"author": {
